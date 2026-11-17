@@ -1,0 +1,8 @@
+# Publish only the documentation and the two requested directories.
+/*
+!/.gitignore
+!/README.md
+!/Calibration Dataset/
+/Calibration Dataset/*
+!/Calibration Dataset/Configuration File/
+!/Calibration Dataset/Environmental Equipment Diagram/
